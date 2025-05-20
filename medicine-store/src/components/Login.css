@@ -4,13 +4,13 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #f4f6f8;
+  background-color: #1e293b;
   font-family: Arial, sans-serif;
 }
 
 .login h2 {
   margin-bottom: 20px;
-  color: #333;
+  color: white;
 }
 
 .login form {
@@ -32,12 +32,12 @@
 
 .login input:focus {
   outline: none;
-  border-color: #007bff;
+  border-color: #0f172a;
 }
 
 .login button {
   padding: 10px;
-  background-color: #007bff;
+  background-color: #0f172a;
   color: white;
   border: none;
   font-weight: bold;
@@ -47,7 +47,7 @@
 }
 
 .login button:hover {
-  background-color: #0056b3;
+  background-color: #0f172ad4;
 }
 
 .login p {
